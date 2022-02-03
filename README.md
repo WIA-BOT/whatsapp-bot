@@ -21,12 +21,52 @@ WhatsApp Bot
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # CLICK TO DEPOLY AND CREATE WIA-BOT
 
 
 
 
----------------------------------
 
 
 
@@ -35,7 +75,21 @@ WhatsApp Bot
 
 
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://replit.com/badge/github/WIA-BOT/whatsapp-bot)
@@ -49,10 +103,13 @@ WhatsApp Bot
 
 
 
-# ```WIA BOT```
+# ```CLICK SCAN AND GET QR```
 
 
 
+
+
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)
 -------
 
 
