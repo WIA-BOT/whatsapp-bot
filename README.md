@@ -92,7 +92,7 @@ WIA-BOT
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://replit.com/badge/github/WIA-BOT/whatsapp-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/WIA-BOT/whatsapp-bot)
 
 
 
