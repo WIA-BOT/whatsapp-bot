@@ -21,7 +21,7 @@ WhatsApp Bot
 
 
 
-[![CREATE WIA BOT]
+[![CLICK TO DEPOLY AND CREATE WIA-BOT]
 
 
 
@@ -31,7 +31,7 @@ WhatsApp Bot
 
 
 
-[![CLICK DEPLOY TO HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WIA-BOT/whatsapp-bot
+[![CLICK](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WIA-BOT/whatsapp-bot
 
 
 
