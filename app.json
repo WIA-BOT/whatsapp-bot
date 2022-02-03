@@ -1,5 +1,5 @@
-{  
-    "name": "WIA-BOT",
+{
+    "name": "wia-bot",
     "description": " WIA-BOT {WHATSAPP BOT}.",
     "keywords": [
         "whatsapp",
@@ -11,8 +11,8 @@
             "description": "Enter the code {scan qr and get a code}.",
             "required": true
         },
-        "BOT_NUMBER {SUDO}": {
-            "description": "Sudo mode, Your number must be an international number. So you should have your number after the country code. Example: 91xxxxx (IN)",
+        "BOT_NUMBER": {
+            "description": "TYPE YOUR BOT NUMBER, WITH COUNTRY CODE. Example: 91xxxxx (IN)",
             "required": false
         },
         "HANDLERS": {
@@ -31,7 +31,7 @@
             "value": "true"
         },
         "HEROKU_API_KEY": {
-            "description": "Enter Heroku API Key.",
+            "description": "ENTER YOU HEROKU API KEY [YOU CAN FIND IT ON ACCOUNT SETTING > SCROLL DOWN > REVEAL API KEY]",
             "required": true
         },
         "HEROKU_APP_NAME": {
