@@ -55,9 +55,6 @@ WhatsApp Bot
 
 -------
 
-## `SCAN QR AND DEPOLY WIA BOT`
-
-[CLICK HERE TO SCAN](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
 
 
 ----------
