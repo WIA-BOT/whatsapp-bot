@@ -97,7 +97,7 @@ async function whatsAsena(version) {
 ${chalk.white.bold.bgBlack("Version:")} ${chalk.red.bold.bgBlack(
       config.VERSION
     )}
-${chalk.blue.italic.bgBlack("ℹ️ Connecting to WhatsApp... Please wait.")}`)
+${chalk.blue.italic.bgBlack("ℹ️ WIA-BOT is Connecting to WhatsApp... Please wait.")}`)
   })
   conn.on("open", async () => {
     console.log(chalk.green.bold("✅ Login successful!"))
