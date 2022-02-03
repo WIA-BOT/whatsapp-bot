@@ -20,7 +20,7 @@ WhatsApp Bot
 
 
 
-
+WIA-BOT
 
 
 
@@ -103,13 +103,13 @@ WhatsApp Bot
 
 
 
-# ```CLICK SCAN AND GET QR```
+# ```CLICK Run on Repli.it AND GET QR```
 
 
 
 
 
-CLICK Run on Repli.it
+
 
 
 
