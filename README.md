@@ -21,7 +21,7 @@ WhatsApp Bot
 
 
 
-# ```CLICK TO DEPOLY AND CREATE WIA-BOT```https://github.com/WIA-BOT/whatsapp-bot
+#`CLICK TO DEPOLY AND CREATE WIA-BOT`
 
 
 
@@ -31,12 +31,11 @@ WhatsApp Bot
 
 
 
-[![CLICK](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WIA-BOT/whatsapp-bot
 
 
 
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://replit.com/badge/github/WIA-BOT/whatsapp-bot)
