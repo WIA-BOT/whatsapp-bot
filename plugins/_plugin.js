@@ -9,13 +9,13 @@ WhatsAsena - Yusuf Usta
 const Asena = require("../Utilis/events")
 const got = require("got")
 const fs = require("fs")
-const { parseGistUrls, pluginList } = require("../Utilis/Misc")
+const { parseGistUrls, ᴘʟᴜɢɪɴʟɪsᴛ } = require("../Utilis/Misc")
 const { installPlugin, getPlugin, deletePlugin } = require("../Utilis/plugins")
 const Language = require("../language")
 const Lang = Language.getString("_plugin")
 
 Asena.addCommand(
-  { pattern: "plugin ?(.*)", fromMe: true, desc: Lang.INSTALL_DESC },
+  { pattern: "ᴘʟᴜɢɪɴ ?(.*)", fromMe: true, desc: Lang.INSTALL_DESC },
   async (message, match) => {
     match = match || message.reply_message.text
     if (!match && match !== "list")
@@ -61,7 +61,7 @@ Asena.addCommand(
 )
 
 Asena.addCommand(
-  { pattern: "remove (.*)", fromMe: true, desc: Lang.REMOVE_DESC },
+  { pattern: "ʀᴇᴍᴏᴠᴇ (.*)", fromMe: true, desc: Lang.REMOVE_DESC },
   async (message, match) => {
     if (!match) return await message.sendMessage(Lang.NEED_PLUGIN)
     if (match == "all") {
