@@ -226,7 +226,7 @@ Asena.addCommand(
     let isGame = await isGameActive()
     if (isGame.state)
       return await message.sendMessage(
-        genButtons(["END"], isGame.msg, ""),
+        genButtons(["END CHEYYANO"], isGame.msg, ""),
         { contextInfo: { mentionedJid: isGame.mentionedJid } },
         MessageType.buttonsMessage
       )
