@@ -1,5 +1,6 @@
 {
     "name": "WIA-BOT",
+    "logo": "https://i.imgur.com/E8o7Xu1.jpeg",
     "description": " WIA-BOT {WHATSAPP BOT}.",
     "keywords": [
         "whatsapp",
@@ -74,7 +75,7 @@
         },
         "STICKER_PACKNAME": {
             "description": "Sticker pack name,author",
-            "value": "WHO I AM"
+            "value": "WHO I AM,WIA-BOT"
         },
         "DISABLE_BOT":{
          "description": "Disable or Block bot in group/chat.Enter required chat jid separated by ,",
