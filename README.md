@@ -19,9 +19,7 @@ WhatsApp Bot
 
 
 
-
-WIA-BOT
-
+} ᴡɪᴀ-ʙᴏᴛ ɪs ʜᴇʀᴇ 😌🚶🏻
 
 
 
@@ -62,7 +60,8 @@ WIA-BOT
 
 
 
-# CLICK TO DEPOLY AND CREATE WIA-BOT
+
+# ᴄʟɪᴄᴋ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴀɴᴅ ᴄʀᴇᴀᴛᴇ ᴡɪᴀʙᴏᴛ
 
 
 
@@ -103,7 +102,7 @@ WIA-BOT
 
 
 
-# ```CLICK Run on Repli.it AND GET QR```
+# ```ᴄʟɪᴄᴋ ᴏɴ ʀᴜɴ ᴏɴ ʀᴇᴘʟɪ.ɪɢ ᴀɴᴅ sᴄᴀɴ ǫʀ ᴄᴏᴅᴇ```
 
 
 
@@ -136,4 +135,4 @@ WIA-BOT
 
 
 
-# WIA-BOT🚶🏻
+#🔰
