@@ -120,7 +120,7 @@ WIA-BOT
 
 
 
-[![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
+[![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@wiabot/WIA-BOT22)
 -------
 
 
@@ -131,3 +131,9 @@ WIA-BOT
 
 
 ---------🙂❤️
+
+
+
+
+
+# WIA-BOT🚶🏻
